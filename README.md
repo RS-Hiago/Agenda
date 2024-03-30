@@ -44,7 +44,5 @@ Certifique-se de seguir todas as etapas para garantir o funcionamento correto do
 
 ## Autor
 
-## Autor
-
 [RS-Hiago](https://github.com/RS-Hiago)
 
